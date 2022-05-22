@@ -2,6 +2,7 @@
 基于ESP32的3D打印机八轴主板/A kind of eight-axis motherboard for 3D printer based on ESP32  
 吸收祁大佬8z主板、LSP主板、XCJX-8AXIS等开源ESP32主板优点并改进，感谢各位大佬无私开源  
 12路光耦信号隔离+两级防反接保护，最大限度保护主板，如小龙虾一般适应能力极强  
+8路步进电机驱动+XY2路步进电机闭环驱动接口（适配HYPERSTEPPER，感谢杨工），和小龙虾一样“十”肢发达  
 74HCT595/74HC595+74LVC1T45可选双GPO高速拓展方案，最低成本解决ESP32io不足问题  
 足量电容+单点接地，保证系统抗干扰能力  
 电机驱动单独供电，提升打印稳定性  
